@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i769ra6x0Y7ts/2GX8hJcgN3bGIk/qEmgCDEXlw4lZa1gNhR1WnU1jcP6nZBMzd01Z9uUyoapmqey6lX72M9PA==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\Programming\\C#\\AristaBitrateCalculator\\AristaBitrateCalculator\\AristaBitrateCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauro\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

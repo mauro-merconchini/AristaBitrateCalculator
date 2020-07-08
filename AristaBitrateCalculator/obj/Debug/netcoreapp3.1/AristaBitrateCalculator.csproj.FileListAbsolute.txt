@@ -1,0 +1,16 @@
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.exe
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.csprojAssemblyReference.cache
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.AssemblyInfoInputs.cache
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.AssemblyInfo.cs
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.deps.json
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.runtimeconfig.json
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.runtimeconfig.dev.json
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.dll
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\AristaBitrateCalculator.pdb
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.csproj.CopyComplete
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.dll
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.pdb
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\obj\Debug\netcoreapp3.1\AristaBitrateCalculator.genruntimeconfig.cache
+D:\Documents\Programming\C#\AristaBitrateCalculator\AristaBitrateCalculator\bin\Debug\netcoreapp3.1\JSON\arista.json
