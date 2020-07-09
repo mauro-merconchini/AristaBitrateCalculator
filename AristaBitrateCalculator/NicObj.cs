@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -21,7 +22,7 @@ namespace AristaBitrateCalculator
             public string Timestamp { get; set; }
             public string Rx { get; set; }
             public string Tx { get; set; }
-
+            
             /// <summary>
             /// This method converts the Rx value from a string to a more useful data type
             /// </summary>
